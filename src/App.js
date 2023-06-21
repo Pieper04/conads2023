@@ -21,7 +21,7 @@ function App() {
         <b>
           Profª Letícia Pieper
         </b>
-        <p><b> Aluno: Joaquim - 2º semestre </b></p>
+        <p><b> Quem gosto bate palma, não gosto bate palma também. </b></p>
       </header>
     </div>
   );
